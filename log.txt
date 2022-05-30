@@ -1,0 +1,192 @@
+Compare:file1.bin and file2.bin
+Bits: 800
+Bit difference: : 0
+Compare:file3.bin and file4.bin
+Bits: 800
+Bit difference: : 10
+Compare:file5.bin and file6.bin
+Bits: 3355443200
+Bit difference: : 838860800
+Compare:file1.bin and file2.bin
+Bits: 800
+Bit difference: : 0
+Compare:file3.bin and file4.bin
+Bits: 800
+Bit difference: : 10
+Compare:file1.bin and file2.bin
+Bits: 800
+Bit difference: : 0
+Compare:file3.bin and file4.bin
+Bits: 800
+Bit difference: : 10
+Compare:file1.bin and file2.bin
+Bits: 800
+Bit difference: : 0
+Compare:file3.bin and file4.bin
+Bits: 800
+Bit difference: : 10
+Compare:file1.bin and file2.bin
+Bits: 800
+Bit difference: : 0
+Compare:file3.bin and file4.bin
+Bits: 800
+Bit difference: : 10
+Compare:file1.bin and file2.bin
+Bits: 800
+Bit difference: : 0
+Compare:file3.bin and file4.bin
+Bits: 800
+Bit difference: : 10
+Compare:file1.bin and file2.bin
+Bits: 800
+Bit difference: : 0
+Compare:file3.bin and file4.bin
+Bits: 800
+Bit difference: : 10
+Porównaj file1.bin z file2.bin
+Bity: 800
+Ró¿nica bitow : 0
+Porównaj file3.bin z file4.bin
+Bity: 800
+Ró¿nica bitow : 10
+Porownaj file1.bin z file2.bin
+Bity: 800
+Ro¿nica bitow : 0
+Porownaj file3.bin z file4.bin
+Bity: 800
+Ro¿nica bitow : 10
+Porownaj file1.bin z file2.bin
+Bity: 800
+Ro¿nica bitow : 0
+Porownaj file3.bin z file4.bin
+Bity: 800
+Ro¿nica bitow : 10
+Porownaj file1.bin z file2.bin
+Bity: 800
+Ro¿nica bitow : 0
+Porownaj file3.bin z file4.bin
+Bity: 800
+Ro¿nica bitow : 10
+Porownaj file1.bin z file2.bin
+Bity: 800
+Ro¿nica bitow : 0
+Porownaj file3.bin z file4.bin
+Bity: 800
+Ro¿nica bitow : 10
+Porownaj file1.bin z file2.bin
+Bity: 800
+Ro¿nica bitow : 0
+Porownaj file3.bin z file4.bin
+Bity: 800
+Ro¿nica bitow : 10
+Porownaj plik1.bin z plik2.bin
+Bity: 800
+Ro¿nica bitow : 0
+Porownaj file3.bin z file4.bin
+Bity: 800
+Ro¿nica bitow : 10
+Porownaj plik1.bin z plik2.bin
+Bity: 800
+Ro¿nica bitow : 0
+Porownaj file3.bin z file4.bin
+Bity: 800
+Ro¿nica bitow : 10
+Porownaj plik1.bin z plik2.bin
+Bity: 800
+Ro¿nica bitow : 0
+Porownaj file3.bin z file4.bin
+Bity: 800
+Ro¿nica bitow : 10
+Porownaj plik1.bin z plik2.bin
+Bity: 800
+Ro¿nica bitow : 0
+Porownaj file3.bin z file4.bin
+Bity: 800
+Ro¿nica bitow : 10
+Porownaj plik1.bin z plik2.bin
+Bity: 800
+Ro¿nica bitow : 0
+Porownaj file3.bin z file4.bin
+Bity: 800
+Ro¿nica bitow : 10
+Porownaj plik1.bin z plik2.bin
+Bity: 800
+Ro¿nica bitow : 0
+Porownaj file3.bin z file4.bin
+Bity: 800
+Ro¿nica bitow : 10
+Porownaj plik1.bin z plik2.bin
+Bity: 800
+Ro¿nica bitow : 0
+Porownaj file3.bin z file4.bin
+Bity: 800
+Ro¿nica bitow : 10
+Porownaj plik1.bin z plik2.bin
+Bity 800
+Ro¿nica bitow  0
+Porownaj file3.bin z file4.bin
+Bity 800
+Ro¿nica bitow  10
+Porownaj plik1.bin z plik2.bin
+Bity 800
+Ro¿nica bitow  0
+Porownaj file3.bin z file4.bin
+Bity 800
+Ro¿nica bitow  10
+Porownaj plik1.bin z plik2.bin
+Bity 800
+Ro¿nica bitow  0
+Porownaj file3.bin z file4.bin
+Bity 800
+Ro¿nica bitow  10
+Porownaj plik1.bin z plik2.bin
+Bity 800
+Ro¿nica bitow  0
+Porownaj file3.bin z file4.bin
+Bity 800
+Ro¿nica bitow  10
+Porownaj file5.bin z file6.bin
+Bity 3355443200
+Ro¿nica bitow  838860800
+Porownaj plik1.bin z plik2.bin
+Bity 800
+Ro¿nica bitow  0
+Porownaj file3.bin z file4.bin
+Bity 800
+Ro¿nica bitow  10
+Porownaj plik1.bin z plik2.bin
+Bity 800
+Ro¿nica bitow  0
+Porownaj file3.bin z file4.bin
+Bity 800
+Ro¿nica bitow  10
+Porownaj plik1.bin z plik2.bin
+Bity 800
+Ro¿nica bitow  0
+Porownaj file3.bin z file4.bin
+Bity 800
+Ro¿nica bitow  10
+Porownaj file1.bin z file1.bin
+Bity 800
+Ro¿nica bitow  0
+Porownaj file3.bin z file4.bin
+Bity 800
+Ro¿nica bitow  10
+Porownaj file1.bin z file1.bin
+Bity 800
+Ro¿nica bitow  0
+Porownaj file3.bin z file4.bin
+Bity 800
+Ro¿nica bitow  10
+Porownaj file1.bin z file1.bin
+Bity 800
+Ro¿nica bitow  0
+Porownaj file3.bin z file4.bin
+Bity 800
+Ro¿nica bitow  10
+Porownaj file1.bin z file1.bin
+Bity 800
+Ro¿nica bitow  0
+Porownaj file3.bin z file4.bin
+Bity 800
+Ro¿nica bitow  10
