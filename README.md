@@ -1,4 +1,4 @@
-Zadanie IV
+#Zadanie IV
 
 Napisz program ktory oblicza BER (Bit Error Rate) dla dwóch dowolnych plików.
 
